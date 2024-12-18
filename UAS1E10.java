@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class UAS1E10 {
-    static int jumlahTim10 = 3;
+    static int jumlahTim10 = 6;
     static String[] namaTim10 = new String[jumlahTim10];
     static int[][] skorTim10 = new int[jumlahTim10][2];
     static int[] totalSkor10 = new int[jumlahTim10];
